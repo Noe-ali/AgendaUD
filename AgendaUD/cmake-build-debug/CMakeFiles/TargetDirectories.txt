@@ -1,0 +1,3 @@
+C:/Users/noeal/CLionProjects/AgendaUD/cmake-build-debug/CMakeFiles/AgendaUD.dir
+C:/Users/noeal/CLionProjects/AgendaUD/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/noeal/CLionProjects/AgendaUD/cmake-build-debug/CMakeFiles/rebuild_cache.dir
